@@ -13,9 +13,10 @@ body {
 #main {
   width: 100%;
   height: 100%;
-  background-image: url("https://images.unsplash.com/photo-1509803874385-db7c23652552?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdWQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuqX3U4CsgJKOzUPs3Oq9gHo0lrOcTlbCDYg&s");
   background-size: cover;
   background-position: center;
+  opacity: inherit;
 }
 
 #nav {
